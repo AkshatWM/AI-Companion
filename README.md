@@ -7,4 +7,3 @@ This project was inspired by Grok AI Companion, so I tried to make something clo
 
 Every line of code is hand written so that I can learn to use/practise the languages. 
 
-<img width="937" height="467" alt="image" src="https://github.com/user-attachments/assets/541d6cc0-6ca3-4c07-b53c-8732c6c8e16c" />
