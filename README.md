@@ -11,4 +11,6 @@ Every line of code is hand written so that I can learn to use/practise the langu
 
 This is an image of how it looks when you use it
 
+Heads up- I do not own the image of the Anime girl, all rights belong to the original creator.
 
+The Image and System prompt is easily interchangable by users.
