@@ -9,4 +9,6 @@ Every line of code is hand written so that I can learn to use/practise the langu
 
 <img width="947" height="470" alt="image" src="https://github.com/user-attachments/assets/b95b529b-27a6-4ec3-8818-c50066adb1fc" />
 
+This is an image of how it looks when you use it
+
 
