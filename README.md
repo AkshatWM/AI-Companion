@@ -15,7 +15,7 @@ Heads up- I do not own the image of the Anime girl, all rights belong to the ori
 
 The Image and System prompt is easily interchangable by users.
 
-# **How can I run this?**
+## **How can I run this?**
 **Prerequisites-** Ollama, A browser, >Python v3.11
 
 Step-1 Install Ollama and Install the model of your choice (Ignore If already done)
