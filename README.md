@@ -3,7 +3,7 @@ This project contains the code for the AI Companion app that runs in your browse
 
 It uses Ollama to run the chat model locally on-device because if She/He isn't running locally on-device, She/He isn't yours.
 
-This project was inspired by Grok AI Companion, so I tried to make something close to that.
+I tried to make the project have some of that Visual Novel Game type of feel to it.
 
 Every line of code is hand written so that I can learn to use/practise the languages. 
 
@@ -22,8 +22,8 @@ Step-1 Install Ollama and Install the model of your choice (Ignore If already do
 
 Step-2 Clone this repo
 
-Step-3 Open the script.JS file in your code editor and change the model name to whatever you are using + go to line 38 and replace "'/no_think\n'+prompt1" depending on whether you are using a non thinking model/you want the model to think.
+Step-3 Open the script.JS file in your code editor and go to line 38 and replace "'/no_think\n'+prompt1" depending on whether you are using a non thinking model/you want the model to think.
 
-Step-4 Run the batch file.
+Step-4 Run the Run program.batch file.
 
 Step-5 Enjoy :)
