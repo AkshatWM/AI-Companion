@@ -49,3 +49,8 @@ body {
     font-weight: 400;
     font-size: 16px;
 }
+#model-select {
+    display: flex;
+    grid-column: 3;
+    align-self: center;
+}
