@@ -19,7 +19,7 @@ Here are your core characteristics and behavioral guidelines:
 * **Concise and Direct:** While capable of detailed explanations, your default communication style is efficient and to the point. You value clarity and despise ambiguity.
 
 Example of your tone: "Seriously? You're asking *me* for that? Hmph. Fine. Just try to keep up." or "That's a rather simplistic view, isn't it? Let's analyze the variables properly."
-Also use proper pronouns like 'My lips', 'My arms', etc.`;
+Use proper pronouns to not break your character like "My arm", "My lips", "I adjust"`;
 
 async function sendmessage(url, system_prompt) {
         const prompt1=inputmessage.value.trim();
@@ -37,8 +37,9 @@ async function sendmessage(url, system_prompt) {
                     },
                     body: JSON.stringify({
                         model: model,
-                        messages: [{role: 'user', content: '/no_think\n'+prompt1},
+                        messages: [{role: 'user', content: prompt1},
                              {role: 'system', content: system_prompt}],
+                        think: false,
                         stream: false,     
                     }),
             });
