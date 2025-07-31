@@ -22,8 +22,10 @@ Step-1 Install Ollama and Install the model of your choice (Ignore If already do
 
 Step-2 Clone this repo
 
-Step-3 Open the script.JS file in your code editor and go to line 38 and replace "'/no_think\n'+prompt1" depending on whether you are using a non thinking model/you want the model to think. (Ignore if you are using a thinking model that allows no thinking mode)
+Step-3 Run the Run program.batch file.
 
-Step-4 Run the Run program.batch file.
+Step-4 Select your model from model selector.
 
 Step-5 Enjoy :)
+
+Note- Thinking mode for some models is disabled for now.
