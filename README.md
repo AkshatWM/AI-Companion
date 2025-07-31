@@ -15,14 +15,14 @@ Heads up- I do not own the image of the Anime girl, all rights belong to the ori
 
 The Image and System prompt is easily interchangable by users.
 
-# **How can I run this?**
+## **How can I run this?**
 **Prerequisites-** Ollama, A browser, >Python v3.11
 
 Step-1 Install Ollama and Install the model of your choice (Ignore If already done)
 
 Step-2 Clone this repo
 
-Step-3 Open the script.JS file in your code editor and go to line 38 and replace "'/no_think\n'+prompt1" depending on whether you are using a non thinking model/you want the model to think.
+Step-3 Open the script.JS file in your code editor and go to line 38 and replace "'/no_think\n'+prompt1" depending on whether you are using a non thinking model/you want the model to think. (Ignore if you are using a thinking model that allows no thinking mode)
 
 Step-4 Run the Run program.batch file.
 
